@@ -6,7 +6,7 @@ import (
 )
 
 //go:generate cqcfg -c .
-// cqp: 名称: 网抑云音乐
+// cqp: 名称: 网抑云音乐语句获取
 // cqp: 版本: 1.0.0:1
 // cqp: 作者: topjohncian
 // cqp: 简介: 网抑云音乐语录 感谢API:https://cqp.cc/t/51719
